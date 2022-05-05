@@ -36,17 +36,16 @@ android:layout_gravity="center"
             android:id="@+id/btnBack"
             android:layout_width="160dp"
             android:layout_height="80dp"
-            android:layout_marginRight="25dp"
+            android:layout_marginRight="10dp"
             android:backgroundTint="#f099"
-            android:text="Back"
-            android:verticalScrollbarPosition="left" />
+            android:text="Back" />
 
         <Button
             android:id="@+id/btnClearHistory"
             android:layout_width="160dp"
             android:layout_height="80dp"
             android:backgroundTint="#f099"
-            android:text="Clear"
-            android:verticalScrollbarPosition="right" />
+            android:layout_marginLeft="10dp"
+            android:text="Clear" />
     </LinearLayout>
 </LinearLayout>

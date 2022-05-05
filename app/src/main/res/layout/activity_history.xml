@@ -22,7 +22,7 @@ android:layout_gravity="center"
     <ListView
         android:id="@+id/lvHistory"
         android:layout_width="match_parent"
-        android:layout_height="550dp"
+        android:layout_height="500dp"
         android:layout_margin="25dp" />
 
     <LinearLayout
